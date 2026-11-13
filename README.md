@@ -1,3 +1,3 @@
 # IR-Blind-devices
 
-chabge 
+change 
